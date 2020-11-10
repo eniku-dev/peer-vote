@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Muli";
+  src: url("./muli/Muli-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Muli";
+  src: url("./muli/Muli-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Muli";
+  src: url("./muli/Muli.ttf") format("truetype");
+}
+@font-face {
+  font-family: "source-sans-pro";
+  src: url("./source-sans-pro/SourceSansPro-Bold.otf") format("truetype");
+}
+@font-face {
+  font-family: "source-sans-pro";
+  src: url("./source-sans-pro/SourceSansPro-Black.otf") format("truetype");
+}
+@font-face {
+  font-family: "source-sans-pro";
+  src: url("./source-sans-pro/SourceSansPro-Regular.otf") format("truetype");
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url(./montserrat/Montserrat-Bold.otf) format("truetype");
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url(./montserrat/Montserrat-Black.otf) format("truetype");
+}

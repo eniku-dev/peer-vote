@@ -1,0 +1,102 @@
+@import "../fonts/Fonts.css";
+
+.party-con {
+  align-self: center;
+  position: relative;
+  margin-left: 10%;
+  margin-top: 5%;
+  width: 80%;
+  height: 70%;
+  border-radius: 10px;
+  background-color: blueviolet;
+}
+
+.party-con .party-list {
+  font-family: Muli;
+  width: 100%;
+  height: 100%;
+}
+.party-list ul{
+  list-style: none;
+}
+.party-con .party-list .left-radio-btn{
+  color: #ffffff;
+ font-size: 18px;
+}
+.party-con .party-list .right-radio-btn{
+  color: #ffffff;
+  font-size: 18px;
+}
+.votebtn-con {
+  align-self: center;
+  margin-left: 30%;
+  margin-top: 1%;
+  width: 40%;
+}
+.votebtn-con .votebtn {
+  height: 35px;
+  width: 35%;
+  align-self: center;
+  margin-left: 30%;
+  font-size: 14px;
+  font-family: muli;
+  font-weight: 700;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  background-color: #061335;
+  color: #ffffff;
+  cursor: pointer;
+}
+.left-list {
+  width: 60%;
+  margin-left: 20%;
+}
+.left-list .left-radio-btn {
+  margin-left: 100px;
+  margin-top: -50px;
+}
+.left-list-container {
+  position: absolute;
+  top: 10%;
+  height: 80%;
+  width: 50%;
+  left: 0;
+  border-right: 1px solid #cdcdcd;
+}
+.left-list-container li {
+  padding-top: 40px;
+  align-self: center;
+}
+.right-list-container {
+  position: absolute;
+  width: 50%;
+
+  right: 0;
+  height: 80%;
+
+  top: 10%;
+}
+.right-list {
+  width: 60%;
+  margin-left: 20%;
+}
+.right-list .right-radio-btn {
+  margin-left: 100px;
+  margin-top: -50px;
+}
+.right-list-container li {
+  padding-top: 40px;
+  align-self: center;
+}
+.top-ul li {
+  display: inline-block;
+}
+.key-container li{
+ display: inline-block;
+ padding-left: 30px;
+}
+.key-container p{
+  font-weight: bold;
+  
+}

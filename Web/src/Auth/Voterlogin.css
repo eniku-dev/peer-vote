@@ -1,0 +1,93 @@
+@import "./fonts/Fonts.css";
+
+.title-con {
+  align-self: center;
+  margin-left: 25%;
+  margin-top: 5%;
+  width: 50%;
+}
+.title-con .header {
+  font-family: source-sans-pro;
+  color: #061335;
+  font-size: 50px;
+  font-weight: bolder;
+  margin-top: 0%;
+  margin-left: 35%;
+}
+.title-con .sec-header {
+  font-family: source-sans-pro;
+  color: #061335;
+  font-size: 25px;
+  font-weight: 400;
+  margin-top: -5%;
+  margin-left: 40%;
+}
+.login-con {
+  width: 50%;
+  align-self: center;
+  margin-top: -3%;
+  margin-left: 25%;
+  margin-right: 20%;
+}
+.login-con .name {
+  height: 15%;
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 5%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-family: muli;
+  font-size: 14px;
+  font-weight: 700;
+  outline: none;
+}
+.login-con .idno {
+  height: 15%;
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 4%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-size: 14px;
+  font-family: muli;
+  font-weight: 700;
+  outline: none;
+}
+.login-con .phonenum {
+  height: 15%;
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 4%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-size: 14px;
+  font-family: muli;
+  font-weight: 700;
+  outline: none;
+}
+.login-con .loginbtn {
+  cursor: pointer;
+  width: 60%;
+  height: 35px;
+  margin-left: 20%;
+  margin-top: 4%;
+  font-size: 14px;
+  font-family: muli;
+  font-weight: 700;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  background-color: #061335;
+  color: #ffffff;
+}
+.error-text{
+  margin-left: 135px;
+  color: red;
+}
+#recaptcha{
+  margin-left: 190px;
+  margin-top: 20px;
+}
